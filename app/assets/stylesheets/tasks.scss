@@ -1,3 +1,28 @@
 // Place all the styles related to the tasks controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+h2 {
+    color: red;
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: bisque;
+    font-family: Helvetica, sans-serif;
+    color: darkorchid;
+}
+
+a {
+    color: darkgray;
+    font-family: Helvetica, sans-serif;
+}
+
+li {
+    color: darkgray;
+    font-family: Helvetica, sans-serif;
+}
+
+.delete_action {
+    color: red;
+}
